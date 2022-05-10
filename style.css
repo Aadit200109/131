@@ -18,10 +18,10 @@ body{
 .copy_right_footer
 {
     position: fixed;
-    color: grey;
+    color: #f5f5f5;
     bottom: 0;
     width: 100%;
-    background-color: #f5f5f5;
+    background-color: grey;
     line-height: 3;
     text-align: center;
 }
